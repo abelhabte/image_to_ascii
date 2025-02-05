@@ -1,4 +1,4 @@
-# Image to Ascii
+# Image to ASCII
 
 This is program that takes images files (jpg, png) and turns it into ascii text using the character set `^\",:;Il!i~+_-?][}(1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao#MW&8%B@S` to represent brightness. This program also uses the [stb_image.h](https://github.com/nothings/stb) library.
 

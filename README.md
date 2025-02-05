@@ -1,6 +1,6 @@
 # Image to Ascii
 
-This is program that takes images files (jpg, png) and turns it into ascii text using the character set ^\",:;Il!i~+_-?][}(1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao#MW&8%B@S to represent brightness.
+This is program that takes images files (jpg, png) and turns it into ascii text using the character set `^\",:;Il!i~+_-?][}(1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao#MW&8%B@S` to represent brightness.
 
 ## Instructions
 
